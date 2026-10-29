@@ -87,7 +87,8 @@ Food-Delivery-Time-Predictor/
 │   ├── delivery_data.csv
 │   ├── delivery_model.pkl
 │   │
-│   ├── FrontEnd.png
+│   ├── Frontend2.png
+│   ├── frontend.png
 │   ├── Outputs.md
 │   └── requirements.txt
 │
