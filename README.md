@@ -571,26 +571,6 @@ A value closer to `1` generally indicates a stronger fit to the data.
 
 ---
 
-# 🖼️ Project Outputs
-
-## Dataset Creation
-
-![Dataset Creation](codes/01_create_data.png)
-
-## Model Training
-
-![Model Training](codes/03_train_model.png)
-
-## Prediction
-
-![Prediction](codes/04_predict.png)
-
-## Streamlit Frontend
-
-![Streamlit Frontend](codes/FrontEnd.png)
-
----
-
 # 📝 Outputs Documentation
 
 The project also contains an output documentation file:
@@ -662,9 +642,9 @@ The dataset is synthetically generated and the model is not trained on real food
 
 # 👩‍💻 Author
 
-**Amitava Chatterjee**
+**Himadri Dutta**
 
-GitHub: **[@cloudsony999](https://github.com/cloudsony999)**
+GitHub: **[Himadri-Dutta](https://github.com/Himadri-Dutta)**
 
 ---
 
@@ -678,7 +658,7 @@ If you found this project useful or interesting:
 
 📚 Explore the code and experiment with the model
 
-💡 Feel free to improve the project and build your own version!
+💡 Feel free to share your insight and knowledge to improve this project!
 
 ---
 
